@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Symbol Copy 3</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.050980 0 0 0 0 0.168627 0 0 0 0 0.258824 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter color-interpolation-filters="auto" id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.050980 0 0 0 0 0.168627 0 0 0 0 0.258824 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Symbol-Copy-3" transform="translate(-421.000000, -277.000000)" filter="url(#filter-1)">
+            <g transform="translate(421.000000, 277.000000)" id="Symbol-Copy-2" filter="url(#filter-2)">
+                <g>
+                    <path d="M99.0615524,55.7445473 L112.566256,96.3233605 L94.1525414,95.992811 L80.3426074,56.0750968 L99.0615524,55.7445473 Z M37.9197502,31.8183935 L47.9895524,61.0164594 L34.8533766,97.1363715 L16.7491129,96.4780858 L37.9197502,31.8183935 Z M72.9790909,31.6622616 L91.6966294,31.6622616 L96.6070469,45.5186132 L77.5800579,45.5186132 L72.9790909,31.6622616 Z M40.3390909,30.8492506 L60.5968491,30.8492506 L81.157025,95.8366792 L62.7433107,95.8366792 L50.4665634,59.8813385 L50.4060799,60.0473165 L40.3390909,30.8492506 Z M1.45686319,0 L126.543137,0 C127.34774,-1.47803233e-16 128,0.652259868 128,1.45686319 L128,126.543137 C128,127.34774 127.34774,128 126.543137,128 L1.45686319,128 C0.652259868,128 2.31898154e-15,127.34774 0,126.543137 L0,1.45686319 C-9.85354884e-17,0.652259868 0.652259868,2.36824928e-15 1.45686319,0 Z" id="Fill-3" fill="#5390B0"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="140px" height="140px" viewBox="0 0 140 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_shapley-values 2@2x</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ai_360_Explanation" transform="translate(-65.000000, -110.000000)">
+            <g id="shaplay_values" transform="translate(65.000000, 110.000000)">
+                <g id="Group">
+                    <polyline id="Path" stroke="#FFFFFF" stroke-width="2.33613445" points="4.70588235 6.66110184 4.70588235 135.325543 133.294118 135.325543"></polyline>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="0 8.06343907 4.70588235 0 9.41176471 8.06343907"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="131.882353 140 140 135.325543 131.882353 130.651085"></polygon>
+                </g>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="3" fill="#D23700" fill-rule="nonzero" x="28.9411765" y="31.3188648" width="44.1176471" height="8.53088481"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="3" fill="#D23700" fill-rule="nonzero" x="16.8235294" y="17.2954925" width="56.2352941" height="8.53088481"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="3" fill="#D23700" fill-rule="nonzero" x="39.5294118" y="45.2253756" width="33.4117647" height="8.53088481"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="3" fill="#D23700" fill-rule="nonzero" x="51.7647059" y="59.2487479" width="21.2941176" height="8.53088481"></rect>
+                <rect id="Rectangle" stroke="#FFFFFF" stroke-width="3" fill="#03B560" fill-rule="nonzero" x="73.2941176" y="76.0767947" width="56.4705882" height="8.53088481"></rect>
+                <polygon id="Path" stroke="#FFFFFF" stroke-width="3" fill="#03B560" fill-rule="nonzero" points="118.235294 99.3322204 73.6470588 99.4490818 73.6470588 90.8013356 118.352941 90.6844741"></polygon>
+                <polygon id="Path" stroke="#FFFFFF" stroke-width="3" fill="#03B560" fill-rule="nonzero" points="106.588235 114.056761 73.6470588 114.173623 73.6470588 105.525876 106.588235 105.409015"></polygon>
+                <polygon id="Path" stroke="#FFFFFF" stroke-width="3" fill="#03B560" fill-rule="nonzero" points="94.9411765 128.781302 73.6470588 128.898164 73.6470588 120.367279 94.9411765 120.250417"></polygon>
+                <line x1="140" y1="71.7529215" x2="6.11764706" y2="71.7529215" id="Path" stroke="#FFFFFF" stroke-width="3" stroke-dasharray="2.336134389042854,3.504201583564281"></line>
+            </g>
+        </g>
+    </g>
+</svg>
