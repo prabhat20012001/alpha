@@ -7890,7 +7890,7 @@ p {
 }
 .header-logo {
   float: left;
-  width: 258px;
+  width: 200px;
   display: block;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
@@ -7898,7 +7898,7 @@ p {
 }
 @media (max-width: 1279.98px) {
   .header-logo {
-    width: 250px;
+    width: 200px;
   }
 }
 @media (max-width: 1023.98px) {
