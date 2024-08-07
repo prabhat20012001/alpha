@@ -8214,7 +8214,7 @@ p {
 }
 .default-title-block .default-title {
   font-size: 3rem;
-  margin-bottom: 2.1875rem;
+  margin-bottom: 1.125rem;
 }
 @media (max-width: 767.98px) {
   .default-title-block .default-title {
@@ -9688,7 +9688,7 @@ p {
 }
 .team-item.team-main-item .team-text {
   margin-top: 1.25rem;
-  max-width: 670px;
+  max-width: 100%;
   width: 100%;
 }
 @media (max-width: 1023.98px) {
